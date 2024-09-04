@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 12cd80ed8d5ff1749945b79fc6ade559
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lt: {instanceID: 0}
+  - player: {instanceID: 0}
+  - holographics: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - leftBound: {instanceID: 0}
+  - rightBound: {instanceID: 0}
+  - bottomBound: {instanceID: 0}
+  - topBound: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - square: {fileID: 7861184250257992403, guid: 138f9f992d671404296abe6d52cbf41e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
